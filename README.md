@@ -27,3 +27,5 @@
 ![Схема_2](Scheme_2.jpg)
 ### Шаг 4
 Данный файл [README.md](https://github.com/Ponikarovskiy/GB_FinalProject_01/blob/main/README.md), который Вы сейчас читаете, является текстовым описанием решения проверочной работы.
+### Шаг 5
+Для решения поставленной задачи был написан [код](https://github.com/Ponikarovskiy/GB_FinalProject_01.git).
